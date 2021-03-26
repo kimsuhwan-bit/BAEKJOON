@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
-public class print_N {
+public class Print_N {
 
 	public static void main(String[] args) throws IOException {
 
